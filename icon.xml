@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element type="icon" group="ZMP">
+<name>Icon</name>
+<author>Ray Lawlor - ZOO Mods Plus</author>
+<creationDate>November 2018</creationDate>
+<copyright>Copyright (C) Ray Lawlor - ZOO Mods Plus</copyright>
+<authorEmail>zoomodsplus@gmail.com</authorEmail>
+<authorUrl>https://www.zoomodsplus.com</authorUrl>
+<version>1.0.0</version>
+<description>Icon Element for Tutorial</description>
+<params>
+</params>
+<params group="render">
+    <param name="size" type="list" default="1" label="Size">
+        <option value="1">Default</option>
+        <option value="2">Large</option>
+        <option value="3">X Large</option>
+    </param>
+</params>
+</element>
